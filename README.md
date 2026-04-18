@@ -19,7 +19,7 @@
 
 <br/>
 
-[🔴 Live Demo](#) · [📖 API Docs](http://localhost:8000/docs) · [⭐ Star this repo](#)
+
 
 </div>
 
@@ -336,24 +336,11 @@ docker run -p 8000:8000 --env-file .env ventureiq
 
 ---
 
-## 🗺️ Roadmap
-
-- [x] Core AI validation engine
-- [x] FAISS RAG knowledge base
-- [x] Groq free LLM integration
-- [x] Production Streamlit SaaS UI
-- [x] 11/11 unit tests passing
-- [ ] PDF report generation with ReportLab
-- [ ] User auth and saved analyses history
-- [ ] Live web scraping for real competitor data
-- [ ] Multi-language support (Hindi, Tamil, Telugu)
-- [ ] WhatsApp bot integration for idea submission
-
 ---
 
 ## 👤 About
 
-**Sudha** — AI/ML Developer passionate about building production-grade intelligent systems.
+**Sudharshan K** — AI/ML Developer passionate about building production-grade intelligent systems.
 
 **Skills demonstrated:**
 - Full-stack AI application development (not just notebooks)
@@ -365,9 +352,9 @@ docker run -p 8000:8000 --env-file .env ventureiq
 - Multi-provider LLM integration (OpenAI / Groq)
 - Custom SaaS UI with Streamlit
 
-📧 **Email:** your.email@gmail.com
-💼 **LinkedIn:** linkedin.com/in/yourprofile
-🐙 **GitHub:** github.com/yourusername
+📧 **Email:** ksudharshan602@gmail.com
+💼 **LinkedIn:** https://www.linkedin.com/in/sudharshan-k123
+🐙 **GitHub:** https://github.com/Sudharshank602
 
 ---
 
